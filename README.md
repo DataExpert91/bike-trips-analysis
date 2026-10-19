@@ -53,7 +53,7 @@ bike-trips-analysis/
 
 ### Bike Type Comparison
 
-![Electric vs Standard Bikes](Images/distance_by_bike_type.png)
+![Electric vs Standard Bikes](Images/hypothesis_19_bike_type_by_day.png)
 
 ### Most Popular Routes
 
