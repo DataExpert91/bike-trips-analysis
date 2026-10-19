@@ -45,6 +45,20 @@ bike-trips-analysis/
 5. **Data Visualization** — created comparison charts, trend charts, and a heatmap of trip counts by weekday and hour.
 6. **Business Recommendations** — proposed opportunities to improve bike availability, customer engagement, electric bike adoption, and data quality.
 
+## Visualizations
+
+### Trip Demand by Weekday and Hour
+
+![Bike Trip Heatmap](Images/heatmap_weekday_hour.png)
+
+### Bike Type Comparison
+
+![Electric vs Standard Bikes](Images/distance_by_bike_type.png)
+
+### Most Popular Routes
+
+![Top 5 Bike Routes](Images/top_5_bike_routes.png)
+
 ## Key Findings
 
 - **Demand patterns:** Trip activity varies by weekday and hour, with notable morning and evening peaks.
